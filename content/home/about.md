@@ -3,7 +3,7 @@ widget: about
 widget_id: Recent
 headless: true
 weight: 20
-title: BBiography
+title: Biography
 active: true
 author: admin
 ---
