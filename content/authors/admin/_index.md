@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Saurav Prakash
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
 # Organizations/Affiliations to show in About widget
 organizations:
