@@ -18,24 +18,21 @@ bio: My research interests include privacy-preserving and secure machine learnin
 
 # Interests to show in About widget
 interests:
+- Secure and Privacy-Preserving Machine Learning
 - Federated Learning 
 - Large-Scale Serverless Training 
-- Secure and Privacy-Preserving Machine Learning
 - Coded Distributed Computing 
 - Information and Coding Theory
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering
+    institution: University of Southern California
+    year: 2022 (expected)
+  - course: BTech in Electrical Engineering
+    institution: Indian Institute of Technology Kanpur
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
