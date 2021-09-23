@@ -72,4 +72,4 @@ I have also had the fortune to gain industry experience through multiple interns
 
 Outside research, I like hanging out with friends, watching classical Bollywood movies, and listening to Indian classical music.  
 
-{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV_Saurav_Prakash.pdf" "newtab" >}}CV{{< /staticref >}}
+<!-- {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV_Saurav_Prakash.pdf" "newtab" >}}CV{{< /staticref >}} -->
