@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Saurav Prakash
+# title: Saurav Prakash
 
 # Is this the primary user of the site?
 superuser: true
