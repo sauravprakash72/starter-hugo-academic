@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Electrical Engineering
+  - course: PhD in Electrical and Computer Engineering
     institution: University of Southern California
     year: 2022 (expected)
   - course: BTech in Electrical Engineering
@@ -66,8 +66,10 @@ email: "sauravpr@usc.edu"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a graduate student at USC, I have been quite fortunate to be advised by Prof. Avestimehr. Under his guidance and support, I have been exploring practical strategies for mitigating real-world bottlenecks in large-scale distributed computing, such as stragglers, limited bandwidth, data privacy, and adversarial nodes. Consequentially, I have made contributions to three main distributed computing paradigms -- (1) server-assisted computing with centralized data placement, (2) server-assisted computing with data at the edge users,  (3) serverless computing.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have also had the fortune to gain industry experience through multiple internships at Intel Labs during summers of 2018 and 2019, as well as at Amazon during the summer of 2021. At Intel, my internships were under Shilpa Talwar (2018) and under Nageen Himayat (2019), and I also worked closely with Sagar Dhakal, Mustafa Akdeniz, and Yair Yona. At Amazon, my internship was under Clement Chung and Rahul Gupta, and I also worked closely with Christophe Dupuy and Leo Long.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Outside research, I like hanging out with friends, watching classical Bollywood movies, and listening to Indian classical music.  
+
+{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV_Saurav_Prakash.pdf" "newtab" >}}CV{{< /staticref >}}.
