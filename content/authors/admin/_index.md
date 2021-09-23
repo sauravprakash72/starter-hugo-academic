@@ -6,7 +6,7 @@ title: Saurav Prakash
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Electrical Engineering
+role: PhD Candidate in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
