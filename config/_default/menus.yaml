@@ -13,12 +13,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: CV
-    url: '#cv'
-    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 80
   - name: CV
     url: uploads/CV_Saurav_Prakash.pdf
     weight: 70
