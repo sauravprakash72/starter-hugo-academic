@@ -1,50 +1,68 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
++++
+# Experience widget.
+widget = "experience"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
-# This file represents a page section.
-headless: true
+title = "Experience"
+subtitle = ""
 
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
+# Order that this section will appear in.
+weight = 3
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "January 2006"
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+[[experience]]
+  title = "Doctoral researcher"
+  company = "Polytechnique Montréal, INRIA Lille"
+  company_url = ""
+  location = "Montréal, Canada & Lille, France"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """
+  Double PhD program in mathematical optimization for pricing of Demand Response programs in a smart grid context.
+  """
 
-design:
-  columns: '2'
----
+[[experience]]
+  title = "Research Engineer, Data scientist"
+  company = "Equisense SAS"
+  company_url = ""
+  location = "Lille, France"
+  date_start = "2016-07-01"
+  date_end = "2017-08-04"
+  description = """
+  Research and development for a startup building connected devices and associated products for horse-riders.
+
+  * Processing and analysis of signals from motion and health monitoring sensors
+  * Prototyping for embedded data compression
+  * Lead developer for the back-end infrastructure (databases, API, data analysis services)
+  * Technologies used: Golang, PostgreSQL, MongoDB, Amazon Web Services, Python, Julia
+  """
+
+[[experience]]
+  title = "Master project"
+  company = "Siemens Digital Factory"
+  company_url = ""
+  location = "Karlsruhe, Germany"
+  date_start = "2016-02-01"
+  date_end = "2016-07-31"
+  description = """
+  Development of algorithms building alarm chains on automation systems for industrial processes.
+  """
+
+[[experience]]
+  title = "Industrial placement"
+  company = "ArcelorMittal"
+  company_url = ""
+  location = "Hamburg, Germany"
+  date_start = "2014-08-01"
+  date_end = "2015-01-31"
+  description = """
+  Quantitative methods for the identification of root causes for steel loss on a rolling mill plant.
+
+  * Data analysis and statistical programming
+  * Preventive & predictive maintenance methodology and tools
+  * Prototyping and tests for control charts
+  """
++++

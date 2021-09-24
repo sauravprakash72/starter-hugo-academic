@@ -1,6 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: 
 widget: accomplishments
 
 # This file represents a page section.
@@ -10,7 +11,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+# title: 'Accomplish&shy;ments'
+title: 'Selected Accomplishments'
 subtitle:
 
 # Date format

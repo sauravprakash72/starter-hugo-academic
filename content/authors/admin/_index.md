@@ -14,7 +14,7 @@ organizations:
   url: https://www.usc.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include privacy-preserving and secure machine learning, federated learning, large-scale distributed learning, coded computing, information theory
+bio: I am a graduate student with interests in privacy-preserving and secure data analytics.
 
 # Interests to show in About widget
 interests:
@@ -63,7 +63,7 @@ social:
 email: "sauravpr@usc.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 As a graduate student at USC, I have been quite fortunate to be advised by Prof. Avestimehr. Under his guidance and support, I have been exploring practical strategies for mitigating real-world bottlenecks in large-scale distributed computing, such as stragglers, limited bandwidth, data privacy, and adversarial nodes. Consequentially, I have made contributions to three main distributed computing paradigms -- (1) server-assisted computing with centralized data placement, (2) server-assisted computing with data at the edge users,  (3) serverless computing.  
