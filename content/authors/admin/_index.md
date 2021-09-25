@@ -68,8 +68,12 @@ highlight_name: false
 
 As a graduate student at USC, I have been quite fortunate to be advised by Prof. Avestimehr. Under his guidance and support, I have been exploring practical strategies for mitigating real-world bottlenecks in large-scale distributed computing, such as stragglers, limited bandwidth, data privacy, and adversarial nodes. Consequentially, I have made contributions to three main distributed computing paradigms -- (1) server-assisted computing with centralized data placement, (2) server-assisted computing with data at the edge users,  (3) serverless computing.  
 
-I have also had the fortune to gain industry experience through multiple internships at Intel Labs during summers of 2018 and 2019, as well as at Amazon during the summer of 2021. At Intel, my internships were under Shilpa Talwar (2018) and under Nageen Himayat (2019), and I also worked closely with Sagar Dhakal, Mustafa Akdeniz, and Yair Yona. At Amazon, my internship was under Clement Chung and Rahul Gupta, and I also worked closely with Christophe Dupuy and Leo Long.   
+I have also had the fortune to gain industry experience through multiple internships at Intel Labs during summers of 2018 and 2019, as well as at Amazon during the summer of 2021. At Intel, my internships were under Shilpa Talwar (2018) and under Nageen Himayat (2019), and I also worked closely with Sagar Dhakal, Mustafa Akdeniz, and Yair Yona. At Amazon, my internship was under Clement Chung and Rahul Gupta, and I also worked closely with Christophe Dupuy and Leo Long.
 
-Outside research, I like hanging out with friends, watching classical Bollywood movies, and listening to Indian classical music.  
+I have also had the fortune to gain industry experience through multiple internships at Intel Labs during summers of 2018 and 2019, as well as at Amazon during the summer of 2021. At Intel, my internships were under Shilpa Talwar (2018) and under Nageen Himayat (2019), and I also worked closely with Sagar Dhakal, Mustafa Akdeniz, and Yair Yona. At Amazon, my internship was under Clement Chung and Rahul Gupta, and I also worked closely with Christophe Dupuy and Leo Long.
+
+I have also had the fortune to gain industry experience through multiple internships at Intel Labs during summers of 2018 and 2019, as well as at Amazon during the summer of 2021. At Intel, my internships were under Shilpa Talwar (2018) and under Nageen Himayat (2019), and I also worked closely with Sagar Dhakal, Mustafa Akdeniz, and Yair Yona. At Amazon, my internship was under Clement Chung and Rahul Gupta, and I also worked closely with Christophe Dupuy and Leo Long.
+
+Outside research, I like hanging out with friends, watching classical Bollywood movies, and listening to Indian classical music. Debug 
 
 <!-- {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV_Saurav_Prakash.pdf" "newtab" >}}CV{{< /staticref >}} -->
